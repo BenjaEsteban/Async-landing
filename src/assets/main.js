@@ -42,9 +42,3 @@ async function fetchData(urlApi) {
         console.log(error)
     }
 })();
-
-
-// fetch('', options)
-// 	.then(response => response.json())
-// 	.then(response => console.log(response))
-// 	.catch(err => console.error(err));
