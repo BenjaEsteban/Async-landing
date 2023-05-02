@@ -1,4 +1,4 @@
-#Sistema Solar
+# Sistema Solar
 
 Este proyecto es una representación visual del sistema solar, incluyendo información sobre cada uno de los planetas. La visualización fue creada con el fin de educar y entretener al usuario, al mismo tiempo de realizar pruebas de llamado de API correspondiente al curso de Asincronismo con JavaScript de Platzi.
 
